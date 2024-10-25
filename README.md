@@ -4,7 +4,7 @@
 
 Sempre em busca de aprender algo novo, seja um código mais eficiente ou um café diferente kkkkk. 
 
-### _________________________________________________________________________
+### ____________________________________________________________________
 
 ## O QUE ESTOU APRENDENDO:
 
