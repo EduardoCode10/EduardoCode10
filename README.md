@@ -1,10 +1,9 @@
 <div style="display: flex; flex-wrap: wrap; align-items: center;">
   <img src="https://orhun.dev/img/crow.png" style="max-width: 100%; height: auto; margin-right: 20px;" width="150" />
-
+   
   <div>
-    ### E AÍ, EU SOU O EDUARDO 🗿🍷
-    
-    Sempre em busca de aprender algo novo, seja um código mais eficiente ou um café diferente kkkkk.
+    <h2>E AÍ, EU SOU O EDUARDO 🗿🍷</h2>
+    <p>Sempre em busca de aprender algo novo, seja aprimorando um código ou dominando habilidades que ninguém pediu, mas que sempre impressionam.</p>
   </div>
 </div>
 
