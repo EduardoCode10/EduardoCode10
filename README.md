@@ -2,10 +2,9 @@
 
 ### E AÍ, EU SOU O EDUARDO 🗿🍷
 
-Sempre em busca de aprender algo novo, seja um código mais eficiente ou um café diferente kkkkk. Quando não estou codando, provavelmente estou aproveitando a vida da melhor forma, seja relaxando ou explorando novos hobbies.
+Sempre em busca de aprender algo novo, seja um código mais eficiente ou um café diferente kkkkk. 
 
-### _______________________________________________________________________________
-
+### ________________________________________________________________________________________
 
 ## O QUE ESTOU APRENDENDO:
 
